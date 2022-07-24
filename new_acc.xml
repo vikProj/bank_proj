@@ -1,0 +1,18 @@
+<accounts>
+    <account type="BankAccount">
+
+        <personalInfo> 
+
+            <name>Tali Mitch</name> 
+
+            <id>74859612</id> 
+
+            <phone>0546-741258</phone> 
+
+            <email>talim@gmail.com</email> 
+
+        </personalInfo> 
+
+    </account>
+
+</accounts>

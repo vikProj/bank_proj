@@ -1,0 +1,125 @@
+<accounts> 
+
+    <account type="StudentBankAccount"> 
+
+        <personalInfo> 
+
+            <name>Katia Barak</name> 
+
+            <id>1234567</id> 
+
+            <phone>0523-555444</phone> 
+
+            <email>katiab@sela.co.il</email> 
+
+        </personalInfo> 
+
+        <college>Sela</college> 
+
+    </account>
+	
+	<account type="StudentBankAccount"> 
+
+        <personalInfo> 
+
+            <name>Rita Zangber</name> 
+
+            <id>7894561</id> 
+
+            <phone>0546-339685</phone> 
+
+            <email>ritba@gmai.com</email> 
+
+        </personalInfo> 
+
+        <college>Sela</college> 
+
+    </account>
+
+    <account type="BankAccount">
+
+        <personalInfo> 
+
+            <name>Tal Cohen</name> 
+
+            <id>22334455</id> 
+
+            <phone>0546-222333</phone> 
+
+            <email>talc@gmail.com</email> 
+
+        </personalInfo> 
+
+    </account>
+	
+	<account type="BankAccount">
+
+        <personalInfo> 
+
+            <name>Adi Mendel</name> 
+
+            <id>3216549</id> 
+
+            <phone>0529-638574</phone> 
+
+            <email>adim@gmai.com</email> 
+
+        </personalInfo> 
+
+    </account>
+	
+	<account type="BusinessBankAccount">
+
+        <personalInfo> 
+
+            <name>Shlomi Tal</name> 
+
+            <id>12345789</id> 
+
+            <phone>0529-112233</phone> 
+
+            <email>shlomit@gmail.com</email> 
+
+        </personalInfo>
+		<businessInfo> 
+
+            <name>Osem</name> 
+
+            <id>7778889</id> 
+
+            <phone>0528-998877</phone> 
+
+            <email>osem@gmail.com</email> 
+
+        </businessInfo>		
+
+    </account>
+	
+	<account type="BusinessBankAccount">
+
+        <personalInfo> 
+
+            <name>Osnat Litvin</name> 
+
+            <id>7788556</id> 
+
+            <phone>0529-112233</phone> 
+
+            <email>osnatl@gmail.com</email> 
+
+        </personalInfo>
+		<businessInfo> 
+
+            <name>Elit</name> 
+
+            <id>4569635</id> 
+
+            <phone>0528-912547</phone> 
+
+            <email>elite@gmail.com</email> 
+
+        </businessInfo>		
+
+    </account>
+	
+</accounts>
